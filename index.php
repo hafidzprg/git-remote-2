@@ -18,6 +18,8 @@
       </li>
       <li><input type="password"></li>
     </ul>
+    <button type="submit">Submit</button>
+    <a href="/">Back</a>
   </form>
 </body>
 </html>
