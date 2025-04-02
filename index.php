@@ -7,5 +7,17 @@
 </head>
 <body>
   <marquee behavior="" direction="">ini teks berjalan</marquee>
+  <form method="post">
+    <ul>
+      <li>
+        <label for="">Username</label>
+      </li>
+      <li><input type="text"></li>
+      <li>
+        <label for="">Password</label>
+      </li>
+      <li><input type="password"></li>
+    </ul>
+  </form>
 </body>
 </html>
