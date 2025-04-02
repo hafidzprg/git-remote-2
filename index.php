@@ -18,8 +18,9 @@
       </li>
       <li><input type="password"></li>
     </ul>
-    <button type="submit">Submit</button>
+    <button id="btn" type="submit">Submit</button>
     <a href="/">Back</a>
   </form>
+  <script src="main.js"></script>
 </body>
 </html>
